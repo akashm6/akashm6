@@ -1,7 +1,6 @@
 <img align = "center" src="https://media.licdn.com/dms/image/v2/D4E03AQE5toiLGDUWUg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711840718980?e=1732752000&v=beta&t=pfes6XD0fvUDPIj0SoeUBp2tPIUjnqc00i66biTGQ6o" width="200" />
 
 # 🚀 Hi! I'm Akash
-
 # 🌟 About Me
 * I'm currently a third-year undergraduate majoring in Computer Science & Data Science at the University of Wisconsin-Madison.
 * I'm passionate about the synergy between software and data and leveraging it to create effective and efficient solutions.
