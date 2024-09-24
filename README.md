@@ -37,7 +37,7 @@
 
 # 🔗 Links
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amohan7/)
-[![Github](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashm6)
+[![Github](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashm6?tab=repositories)
 
 # 👔 Work Experiences
 ### Currently:
