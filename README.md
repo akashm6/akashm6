@@ -7,8 +7,8 @@
 * I'm passionate about the synergy between software and data and leveraging it to create effective and efficient solutions.
 * Current interests include:
   * Full-Stack development
-  * Integrations with different databases (SQlite, Postgres, MongoDB)
   * Deep Learning
+  * Integrations with different databases (SQLite, Postgres, MongoDB)
   * Tableau-Alteryx workflows
 * Outside of coding, some of my hobbies include:
   * Basketball
