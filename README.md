@@ -44,7 +44,7 @@
 * Part-Time Digital & Analytics Intern @ Caterpillar 
 ### Summer 2024
 * Digital & Analytics Intern @ Caterpillar
-  * Tools Used: React.js, Next.js, Python, Tableau, Alteryx, Snowflake
+  * Tools Used: React.js, Next.js, Python, Flask, Figma, Tableau, Alteryx, Snowflake
 ### Summer 2023
 * Systems & Data Insights Intern @ Skills for Chicagoland's Future
   * Tools Used: Python, PyXLL, Tableau, Yello, Nominatim
