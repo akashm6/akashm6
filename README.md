@@ -41,9 +41,9 @@
 
 # 👔 Work Experiences
 ### Currently:
-* Part-Time Digital & Analytics Intern @ Caterpillar 
+* Part-Time Software/Data Engineer Intern @ Caterpillar 
 ### Summer 2024
-* Digital & Analytics Intern @ Caterpillar
+* Software/Data Engineer Intern @ Caterpillar
   * Tools Used: React.js, Next.js, Python, Flask, Figma, Tableau, Alteryx, Snowflake
 ### Summer 2023
 * Systems & Data Insights Intern @ Skills for Chicagoland's Future
