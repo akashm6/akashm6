@@ -1,4 +1,4 @@
-<img align = "center" src="https://media.licdn.com/dms/image/v2/D4E03AQE5toiLGDUWUg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711840718980?e=1732752000&v=beta&t=pfes6XD0fvUDPIj0SoeUBp2tPIUjnqc00i66biTGQ6o" width="200" />
+<img src="https://github.com/user-attachments/assets/91a00344-48f0-4cad-bcb6-8abddd9201c4" alt="linkedinpfp" width="200">
 
 # 🚀 Hi! I'm Akash
 # 🌟 About Me
