@@ -7,8 +7,8 @@
 * Current interests include:
   * Full-Stack development
   * Deep Learning
-  * Integrations with different databases (SQLite, Postgres, MongoDB)
-  * Tableau-Alteryx workflows
+  * Networks
+  * Concurrency
 * Outside of coding, some of my hobbies include:
   * Basketball
   * Volleyball
